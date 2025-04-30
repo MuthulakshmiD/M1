@@ -188,6 +188,7 @@ int main() {
 
     return 0;
 }
+```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/4bca5575-3f68-43d6-b6bf-2b479c704b3d)
 ## RESULT:
